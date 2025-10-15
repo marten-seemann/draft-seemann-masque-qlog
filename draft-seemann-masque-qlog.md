@@ -9,19 +9,19 @@ number:
 date:
 consensus: true
 v: 3
-area: AREA
-workgroup: MASQUE Working Group
+area: "Web and Internet Transport"
+workgroup: "Multiplexed Application Substrate over QUIC Encryption"
 keyword:
  - next generation
  - unicorn
  - sparkling distributed ledger
 venue:
-  group: MASQUE
-  type: Working Group
-  mail: masque@ietf.org
-  arch: https://datatracker.ietf.org/wg/masque/about/
-  github: marten-seemann/draft-seemann-masque-qlog
-  latest: https://marten-seemann.github.io/draft-seemann-masque-qlog/
+  group: "Multiplexed Application Substrate over QUIC Encryption"
+  type: "Working Group"
+  mail: "masque@ietf.org"
+  arch: "https://mailarchive.ietf.org/arch/browse/masque/"
+  github: "marten-seemann/draft-seemann-masque-qlog"
+  latest: "https://marten-seemann.github.io/draft-seemann-masque-qlog/draft-seemann-masque-qlog.html"
 
 author:
  -
